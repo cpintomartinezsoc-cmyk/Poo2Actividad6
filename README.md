@@ -181,62 +181,6 @@ Luego se inicia una entrega utilizando un `Thread`.
 
 El estado del pedido cambia desde `PENDIENTE` a `EN_REPARTO` y finalmente a `ENTREGADO`.
 
----
-
-## 🔄 Flujo del sistema
-
-```text
-Ejecutar Main
-      ↓
-VentanaPrincipal
-      ↓
-┌──────────────────────────────┐
-│ Registrar pedido             │
-│ Listar pedidos               │
-│ Asignar repartidor           │
-└──────────────────────────────┘
-      ↓
-PedidoControlador
-      ↓
-Lista de pedidos
-      ↓
-Asignación de repartidor
-      ↓
-Thread / Repartidor
-      ↓
-Entrega finalizada
-```
-
----
-
-## 📚 Conceptos utilizados
-
-* Programación Orientada a Objetos
-* Clases abstractas
-* Herencia
-* Polimorfismo
-* Interfaces
-* `ArrayList`
-* `JFrame`
-* `JButton`
-* `JTextField`
-* `JPasswordField`
-* `JComboBox`
-* `JTable`
-* `DefaultTableModel`
-* `JOptionPane`
-* Eventos de botones
-* `Runnable`
-* `Thread`
-* `Thread.sleep()`
-
----
-
-## 🎯 Objetivo
-
-Incorporar una interfaz gráfica al sistema **SpeedFast**, permitiendo que el usuario pueda interactuar con los pedidos mediante ventanas, formularios, botones y tablas.
-
-La actividad continúa el desarrollo realizado en las semanas anteriores, incorporando **Java Swing** al sistema de gestión de entregas.
 
 ---
 
@@ -246,12 +190,9 @@ La actividad continúa el desarrollo realizado en las semanas anteriores, incorp
 
 Proyecto: Sistema de gestión de entregas SpeedFast
 
+https://github.com/cpintomartinezsoc-cmyk/Poo2Actividad6.git
+
 Entrega: 21/09/2026)
 
 ---
 
-## ✅ Conclusión
-
-La actividad permite integrar los conceptos de Programación Orientada a Objetos desarrollados anteriormente con una interfaz gráfica utilizando Java Swing.
-
-De esta manera, SpeedFast pasa de trabajar principalmente mediante la consola a contar con ventanas que permiten registrar, visualizar y gestionar los pedidos de forma gráfica.
