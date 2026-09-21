@@ -191,7 +191,7 @@ Proyecto: Sistema de gestión de entregas SpeedFast
 
 https://github.com/cpintomartinezsoc-cmyk/Poo2Actividad6.git
 
-Entrega: 21/09/2026)
+Entrega: 21/09/2026
 
 ---
 
