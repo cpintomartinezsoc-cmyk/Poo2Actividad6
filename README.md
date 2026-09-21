@@ -186,7 +186,6 @@ El estado del pedido cambia desde `PENDIENTE` a `EN_REPARTO` y finalmente a `ENT
 
 📁 Repositorio
 
-[Repositorio: Poo2Semana6
 
 Proyecto: Sistema de gestión de entregas SpeedFast
 
